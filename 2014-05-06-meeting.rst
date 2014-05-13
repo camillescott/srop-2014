@@ -1,0 +1,30 @@
+:Date: 2014-05-06
+
+TODO
+----
+
+* Write script and howto to document converting to R format
+* upload R data file to angel site
+* Work out data subsetting for each project with Sarah and Druhv
+    - meeting times
+* Clean up Avida demo/presentation
+    - Monday presentation
+* 4 more TAs -- Randy, Jory, Eli?
+* Project assignment preference (flexibility++)
+
+Recap
+-----
+
+* May 18-23
+* Two batches of 30 students -- from SROP and BEACON
+* Groups of 3 based on competence
+* Big picture: basic stats concepts and basic R concepts; how to do research
+* Each group works on a project related to the NHANES dataset
+* Teaching based around OpenIntro project
+
+Ideas
+-----
+
+* point them toward some OpenIntro stuff
+* get interesting datasets from Randy?
+
